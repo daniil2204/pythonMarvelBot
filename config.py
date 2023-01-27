@@ -1,0 +1,5 @@
+bot_token = ""
+private_marvel_key = ""
+public_marvel_key = ""
+hash = ""
+ts = ""
